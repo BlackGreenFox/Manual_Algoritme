@@ -115,5 +115,5 @@
 
 Дії над ціми структурами даних
 
-![Складність дій]([https://www.example.com/image.jpg](https://github.com/BlackGreenFox/Manual_Algoritme/blob/main/Images/Array_diff.png)https://github.com/BlackGreenFox/Manual_Algoritme/blob/main/Images/Array_diff.jpg)
+![Складність дій](https://www.example.com/image.jpg](https://github.com/BlackGreenFox/Manual_Algoritme/blob/main/Images/Array_diff.png)https://github.com/BlackGreenFox/Manual_Algoritme/blob/main/Images/Array_diff.jpg)
 
